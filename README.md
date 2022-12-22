@@ -8,10 +8,10 @@ Would you like to find me ?
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyago-eurico-421654207/)
 
 ##
-![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&theme=dark&show_icons=true&count_private=true)
+![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&show_icons=true&theme=dracula&count_private=true)(https://github.com/Hyago-nsa)
 ##
 
-### Technologies I use in my daily life
+### Technologies I use in my day-to-day
 
 <div>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
