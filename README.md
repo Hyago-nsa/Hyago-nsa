@@ -2,7 +2,7 @@
   
 <h2>Olá pessoa! o/ 👋</h2>
 
-  My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more! I'm currently working as a Freelancer!
+  <h5>My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more! I'm currently working as a Freelancer!</h5> 
   
   <h4> Would you like to find me ? </h4>
 
