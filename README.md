@@ -1,4 +1,4 @@
-### "Olá! o7" 👋
+### "Olá pessoa!" o/ 👋
 
 My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more!
 
@@ -9,7 +9,7 @@ Would you like to find me ?
 
 ![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&theme=dark&show_icons=true&count_private=true)
 
-## Tecnologias que eu uso no meu dia
+## Technologies I use in my daily life
 
 <div>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
