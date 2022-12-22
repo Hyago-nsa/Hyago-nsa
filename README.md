@@ -5,9 +5,7 @@ My name is Hyago Eurico, and i'm from Brazil!
 [![Blog](https://img.shields.io/website?label=Hyago-Eurico.com&style=for-the-badge&url=https://hyago-nsa.github.io/portfolio-v2/)](https://hyago-nsa.github.io/portfolio-v2/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyago-eurico-421654207/)
 
-<div style="display: inline_block">
-  ![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&theme=dark&show_icons=true&count_private=true)
-</div><br/>
+![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&theme=dark&show_icons=true&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
