@@ -1,6 +1,5 @@
-### Olá! o/ 👋
+### Hello there! o/ 👋
 
-My name is Hyago Eurico, and i'm from Brazil! 
 
 [![Blog](https://img.shields.io/website?label=Hyago-Eurico.com&style=for-the-badge&url=https://hyago-nsa.github.io/portfolio-v2/)](https://hyago-nsa.github.io/portfolio-v2/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyago-eurico-421654207/)
