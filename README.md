@@ -1,5 +1,6 @@
 <div align="center">
-### "Olá pessoa!" o/ 👋
+  
+### Olá pessoa! o/ 👋
 
 My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more!
 
