@@ -6,7 +6,6 @@
 
 ![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&theme=dark&show_icons=true&count_private=true)
 
-____
 ## Tecnologias que eu uso no meu dia
 
 <div>
