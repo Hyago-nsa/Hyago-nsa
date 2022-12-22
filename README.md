@@ -1,3 +1,4 @@
+<div align="center">
 ### "Olá pessoa!" o/ 👋
 
 My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more!
@@ -10,10 +11,10 @@ Would you like to find me ?
 
 ##
 
-<div align="center">
+
   <a href="https://github.com/Hyago-nsa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyago-nsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyago-nsa&layout=compact&langs_count=7&theme=radical"/>
-</div>
+
 
 ##
 
@@ -26,3 +27,4 @@ Would you like to find me ?
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
+</div>
