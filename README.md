@@ -2,7 +2,7 @@
   
 ### Olá pessoa! o/ 👋
 
-<div height="50em" width="50em">
+<div style="max-width: 50em">
   My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more!
 </div>
   
