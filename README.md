@@ -9,7 +9,7 @@ Would you like to find me ?
 
 ##
 ![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyago-nsa)](https://github.com/Hyago-nsa/github-readme-stats)
 
 ##
 
