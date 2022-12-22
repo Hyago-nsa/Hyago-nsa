@@ -2,11 +2,9 @@
   
 ### Olá pessoa! o/ 👋
 
-<div style="max-width: 50em">
   My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more!
-</div>
   
-Would you like to find me ?
+  Would you like to find me ?
 
 [![Blog](https://img.shields.io/website?label=Hyago-Eurico.com&style=for-the-badge&url=https://hyago-nsa.github.io/portfolio-v2/)](https://hyago-nsa.github.io/portfolio-v2/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyago-eurico-421654207/)
@@ -14,10 +12,8 @@ Would you like to find me ?
 
 ##
 
-
   <a href="https://github.com/Hyago-nsa">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hyago-nsa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyago-nsa&layout=compact&langs_count=7&theme=radical"/>
-
 
 ##
 
