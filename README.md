@@ -1,6 +1,6 @@
 <div align="center">
   
-### <h2>Olá pessoa! o/ 👋</h2>
+<h2>Olá pessoa! o/ 👋</h2>
 
   My name is Hyago Eurico, and i'm from Brazil! I've started my jorney as Front-End Developer in 2021 and since then my love for the web has only grown more and more! I'm currently working as a Freelancer!
   
@@ -17,7 +17,7 @@
 
 ##
 
-### Technologies I use in my day-to-day
+<h3>Technologies I use in my day-to-day</h3>
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
