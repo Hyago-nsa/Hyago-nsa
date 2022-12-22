@@ -6,7 +6,7 @@ My name is Hyago Eurico, and i'm from Brazil!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyago-eurico-421654207/)
 
 
-![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&theme=dark&show_icons=true&count_private=true)]
+![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&theme=dark&show_icons=true&count_private=true)
 
 
 
