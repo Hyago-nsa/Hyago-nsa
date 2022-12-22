@@ -6,6 +6,7 @@ Would you like to find me ?
 
 [![Blog](https://img.shields.io/website?label=Hyago-Eurico.com&style=for-the-badge&url=https://hyago-nsa.github.io/portfolio-v2/)](https://hyago-nsa.github.io/portfolio-v2/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyago-eurico-421654207/)
+<a href = "mailto:hyago.eurico.nsa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ##
 ![Hyago GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyago-nsa&show_icons=true&theme=radical&count_private=true)
