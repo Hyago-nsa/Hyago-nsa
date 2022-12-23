@@ -1,4 +1,4 @@
-<div >
+<div align="center">
   <h2>  "Olá pessoa!" o/ 👋</h2>
 
 
