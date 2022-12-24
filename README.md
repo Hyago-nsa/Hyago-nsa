@@ -1,5 +1,5 @@
 
-  <h2>  "Olá pessoa!" o/ 👋</h2>
+  <h2>  "Olá humano!" o/ 👋</h2>
 
 
 <h4>
@@ -7,7 +7,7 @@
 </h4> 
   
 <h3>
-  Would you like to find me ?
+  Would you like to talk to me ?
 </h3>
 
 [![Blog](https://img.shields.io/website?label=Hyago-Eurico.com&style=for-the-badge&url=https://hyago-nsa.github.io/portfolio-v2/)](https://hyago-nsa.github.io/portfolio-v2/)
