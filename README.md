@@ -27,8 +27,11 @@
 
 <div style="display: inline_block">
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=black" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/Typescript-4584b6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="next" src="https://img.shields.io/badge/Next.js-fff?style=for-the-badge&logo=next.js&logoColor=black" /> 
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-4584b6?style=for-the-badge&logo=python&logoColor=ffde57" /> 
+
 </div><br/>
 
