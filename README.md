@@ -5,7 +5,6 @@
 <h4>
   My name is Hyago Eurico and i'm from Brazil!
 </h4> 
-
 <h4>
   I started my journey as a Front-End Developer at the end of 2022 and since then my love for development has only grown over the years!
 </h4>
