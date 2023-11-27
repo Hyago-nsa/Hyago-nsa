@@ -3,11 +3,17 @@
 
 
 <h3>
-I am a developer who embarked on the journey in 2022, initially focusing on Front-end development. Over the years, I have expanded my skills and knowledge to other areas, including Back-end and Databases
+I am a developer who embarked on the journey in 2022, initially focusing on Front-end development
 </h3>
+<h4>
+Over the years, I have expanded my skills and knowledge to other areas, including Back-end and Databases
+</h4>
 
 <h4>
 My foundation in JavaScript led me to learn TypeScript, React.js, and Node.js/TS, and I have been utilizing these technologies in conjunction with Java and Spring Boot ever since.
+</h4>
+
+<h4>
 I firmly believe that there is no 'better' programming language or framework/library; rather, there is one most suitable for solving each specific problem.
 </h4>
 
