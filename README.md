@@ -5,7 +5,7 @@
 <h3>
 I am a developer who embarked on the journey in 2022, initially focusing on Front-end development
 </h3>
-<h4 style="margin: 0;">
+<h4 style="padding: 0;">
 Over the years, I have expanded my skills and knowledge to other areas, including Back-end and Databases
 </h4>
 
