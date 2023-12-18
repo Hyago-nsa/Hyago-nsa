@@ -25,7 +25,6 @@ I firmly believe that there is no 'better' programming language or framework/lib
   Would you like to talk to me ?
 </h3>
 
-[![Blog](https://img.shields.io/website?label=Hyago-Eurico.com&style=for-the-badge&url=https://hyago-nsa.github.io/portfolio-v3.1/)](https://hyago-nsa.github.io/portfolio-v3.1/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hyago-eurico-421654207/)
 <a href = "mailto:hyago.eurico.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
@@ -44,7 +43,7 @@ I firmly believe that there is no 'better' programming language or framework/lib
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="java" src="https://img.shields.io/badge/java-339999?style=for-the-badge&logo=java&logoColor=black" /> 
-  <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/springboot-fff?style=for-the-badge&logo=springboot&logoColor=black" /> 
-
+<!--   <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/springboot-fff?style=for-the-badge&logo=springboot&logoColor=black" /> 
+ -->
 </div><br/>
 
