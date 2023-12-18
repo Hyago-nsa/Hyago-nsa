@@ -1,5 +1,5 @@
 
-  <h2>  "Olá humano!" o/ 👋</h2>
+  <h2>  "Hello visitor!" o/ 👋</h2>
 
 
 <h3>
@@ -10,7 +10,7 @@ Over the years, I have expanded my skills and knowledge to other areas, includin
 </h4>
 
 <h4>
-My foundation in JavaScript led me to learn TypeScript, React.js, and Node.js/TS, and I have been utilizing these technologies in conjunction with Java and Spring Boot ever since.
+My foundation in JavaScript led me to learn TypeScript, React.js, and Node.js/TS and I have been utilizing these technologies ever since.
 </h4>
 
 <h4>
