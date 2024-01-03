@@ -6,7 +6,7 @@
 I'm Hyago, a developer who embarked on the journey of becoming a programmer in 2022, initially focusing on Front-end development!
 </h3>
 <h4>
-Over the years, I have expanded my skills and knowledge to other areas, including Back-end and Databases
+Over the years, I have expanded my skills and knowledge to other areas, including Back-end and DBs.
 </h4>
 
 <h4>
