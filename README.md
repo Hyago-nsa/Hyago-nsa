@@ -10,7 +10,7 @@ Over the years, I have expanded my skills and knowledge to other areas, includin
 </h4>
 
 <h4>
-My foundation in JavaScript led me to learn TypeScript, React.js, and Node.js/TS and I have been utilizing these technologies ever since.
+My foundation in JavaScript led me to learn TypeScript, Angular, React.js, and Node.js/TS and I have been utilizing these technologies ever since.
 </h4>
 
 <h4>
