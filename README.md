@@ -42,7 +42,7 @@ I firmly believe that there is no 'better' programming language or framework/lib
   <img align="center" alt="typescript" src="https://img.shields.io/badge/Typescript-4584b6?style=for-the-badge&logo=typescript&logoColor=fff" />
   <img align="center" alt="node" src="https://img.shields.io/badge/Node.js-6cc24a?style=for-the-badge&logo=node.js&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-c3002fA?style=for-the-badge&logo=angular&logoColor=ffffff" />
+  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-C3002F?style=for-the-badge&logo=angular&logoColor=ffffff" />
   <img align="center" alt="java" src="https://img.shields.io/badge/java-339999?style=for-the-badge&logo=java&logoColor=black" /> 
 <!--   <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/springboot-fff?style=for-the-badge&logo=springboot&logoColor=black" /> 
  -->
