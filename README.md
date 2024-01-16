@@ -3,11 +3,8 @@
 
 
 <h3>
-I'm Hyago, a developer who embarked on the journey of becoming a programmer in 2022, initially focusing on Front-end development!
+I'm Hyago, a developer who embarked on the journey of becoming a programmer in 2022!
 </h3>
-<h4>
-Over the years, I have expanded my skills and knowledge to other areas, including Back-end and DBs.
-</h4>
 
 <h4>
 My foundation in JavaScript led me to learn TypeScript, Angular, React.js, and Node.js/TS and I have been utilizing these technologies ever since.
