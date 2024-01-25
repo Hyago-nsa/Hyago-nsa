@@ -3,7 +3,7 @@
 
 
 <h3>
-I'm Hyago, a person who embarked on the journey of becoming a Developer in 2022!
+I'm Hyago, a person who embarked on the journey of becoming a Developer back in 2022!
 </h3>
 
 <h4>
